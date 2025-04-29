@@ -63,9 +63,8 @@ Project ini adalah implementasi model klasifikasi menggunakan **TensorFlow** dan
 - Konversi ke **SavedModel** menggunakan Tensorflow model.export.
 
 ### 5. Interfece
-- Model `.tflite` yang digunakan untuk interface
-- 
 ![Screenshot hasil interface](interface.png)
+- Model `.tflite` yang digunakan untuk interface
 
 ## 🔧 Instalasi
 Clone project ini lalu install semua dependencies:
