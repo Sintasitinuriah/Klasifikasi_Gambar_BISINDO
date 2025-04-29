@@ -63,7 +63,7 @@ Project ini adalah implementasi model klasifikasi menggunakan **TensorFlow** dan
 - Konversi ke **SavedModel** menggunakan Tensorflow model.export.
 
 ### 5. Interfece
-![Screenshot hasil interface](interface.png)
+![Screenshot hasil interface](assets/interface.png)
 - Model `.tflite` yang digunakan untuk interface
 
 ## 🔧 Instalasi
@@ -82,8 +82,8 @@ pip install tensorflow tensorflowjs splitfolders matplotlib numpy seaborn scikit
 ```
 
 ## 🖼️ Visualisasi
-![Accuracy Plot](accplot.png)
-![Loss Plot](lossplot.png)
+![Accuracy Plot](assets/accplot.png)
+![Loss Plot](assets/lossplot.png)
 
 
 
