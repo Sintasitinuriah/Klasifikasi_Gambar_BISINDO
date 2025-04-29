@@ -1,0 +1,8 @@
+tensorflow
+tensorflowjs
+splitfolders
+matplotlib
+numpy
+seaborn
+scikit-learn
+tflite
