@@ -64,6 +64,7 @@ Project ini adalah implementasi model klasifikasi menggunakan **TensorFlow** dan
 
 ### 5. Interfece
 - Model `.tflite` yang digunakan untuk interface
+- 
 ![Screenshot hasil interface](interface.png)
 
 ## 🔧 Instalasi
